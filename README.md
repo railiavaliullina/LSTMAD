@@ -14,3 +14,6 @@ File to run:
 
     /executor/executor.py 
 
+Parameters can be changed in:
+
+    config.py 
